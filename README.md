@@ -12,4 +12,4 @@ Place The Header File In the Library Folder Of Arduino Ide.
 Include the maze_solver.h in the Sketch.  
 1.Call the _initialize() function.  
 2.Use insert("<turn direction>") fucntion on Each Turning.  
-3.Call run() function in a loop to Solve the Maze.  
+3.Call run() function in a loop to Solve the Maze.   
